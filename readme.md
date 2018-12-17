@@ -15,4 +15,4 @@ Anyway, the whole thing is for **educational** purposes.
 
 Let's see if this edit creates some extra info about the file.
 
-[image](images/cake1.png)
+[an image of a cake](images/cake1.png)
